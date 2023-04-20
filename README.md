@@ -1,7 +1,7 @@
 
 # Battlegrounds
 
-Battlegrounds an example of a Python text-based adventure game.
+Battlegrounds is a Python text-based gun fight game.
 
 ## Installation
 
@@ -15,9 +15,7 @@ python game.py
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
